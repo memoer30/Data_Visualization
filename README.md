@@ -60,13 +60,6 @@ jupyter notebook
 Data Visualization/
 ├── README.md
 ├── introduction-to-matplotlib.ipynb
-├── fifa.csv
-├── spotify.csv
-├── iris.csv
-├── insurance.csv
-├── flight_delays.csv
-└── anaconda_projects/
-    └── db/
 ```
 
 ## 🤝 Contributing
